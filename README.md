@@ -2,6 +2,8 @@
 
 This is a free MVP starter for a real customer-facing personality growth web app.
 
+
+
 ## What this version includes
 - Next.js app structure
 - Supabase-ready auth flow
