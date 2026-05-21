@@ -2,8 +2,8 @@
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
-import PersonalityTest from '@/components/PersonalityTest';
-import { createClient } from '@/lib/supabase/client';
+import PersonalityTest from '../../components/PersonalityTest';
+import { createClient } from '../../lib/supabase/client';
 
 export default function AuthPage() {
   const supabase = createClient();
